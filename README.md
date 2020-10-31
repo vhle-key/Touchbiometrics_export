@@ -1,10 +1,11 @@
 # Touchbiometrics_export
 Project Code by Viet Hoang Le, supervisor: Prof. Jiankun Hu. October 2020
 
+You will need to unzip syed_horizontal.zip into syed_horizontal.csv before running the syed_cv_classifier.py file.
 Due to different dataset structures and scenarios, 3 classifiers are made - almost 99% similar code
 but with some parameters different.
 
-Refer to my project paper, Simply runs each classifier and inputs parameters to verify the experimental results.
+Refer to my project paper, simply runs each classifier and inputs parameters to verify the experimental results.
 
 Antal_cv_classifier:
     Only asks for train_size and n_bundle and dataset1 or dataset2.
